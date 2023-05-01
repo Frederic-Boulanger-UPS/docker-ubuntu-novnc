@@ -2,7 +2,7 @@ backports.ssl-match-hostname==3.7.0.1
 certifi==2022.12.7
 chardet==3.0.4
 Click==7.0
-Flask==1.1.1
+Flask==2.3.2
 Flask-Login==0.4.1
 gevent==1.4.0
 gevent-websocket==0.10.1
